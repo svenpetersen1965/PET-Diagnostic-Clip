@@ -12,7 +12,7 @@ This is a modern remake of the two Commodore Diagnostic Clips
 
 <img src="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/PET_Diagnostic_Clip/Rev.%202/Pictures/3816_-_diag_320350g_loop1.JPG" width="300" alt="40col non CRTC Tests">
 
-<img src="[https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/PET_Diagnostic_Clip/Rev.%202/Pictures/3816_-_diag_320350g_loop2.JPG](https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/PET_Diagnostic_Clip/Rev.%202/Pictures/3817_-_diag_320350g_loop2.JPG)" width="300" alt="40col non CRTC Tests">
+<img src="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/PET_Diagnostic_Clip/Rev.%202/Pictures/3817_-_diag_320350g_loop2.JPG" width="300" alt="40col non CRTC Tests">
 
 
 
