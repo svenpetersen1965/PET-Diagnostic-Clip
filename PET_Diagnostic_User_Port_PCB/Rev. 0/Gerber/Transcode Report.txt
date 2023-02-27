@@ -1,0 +1,49 @@
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET_Diagnostic_User_Port_PCB\Rev. 0\Gerber\gerber_PET_Diag_UP.out' ----   Wed Jan 04 18:26:30 2023
+
+D12   --> D100
+D13   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET_Diagnostic_User_Port_PCB\Rev. 0\Gerber\gerber_PET_Diag_UP.plc' ----   Wed Jan 04 18:26:30 2023
+
+D11   --> D252
+D12   --> D253
+D13   --> D254
+D14   --> D255
+D15   --> D256
+D16   --> D257
+D17   --> D258
+D18   --> D259
+D19   --> D260
+D20   --> D261
+D100  --> D262
+D101  --> D263
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET_Diagnostic_User_Port_PCB\Rev. 0\Gerber\gerber_PET_Diag_UP.stc' ----   Wed Jan 04 18:26:30 2023
+
+D12   --> D264
+D13   --> D265
+D15   --> D266
+D16   --> D267
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET_Diagnostic_User_Port_PCB\Rev. 0\Gerber\gerber_PET_Diag_UP.sts' ----   Wed Jan 04 18:26:30 2023
+
+D12   --> D268
+D13   --> D269
+D15   --> D270
+D16   --> D271
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET_Diagnostic_User_Port_PCB\Rev. 0\Gerber\gerber_PET_Diag_UP.top' ----   Wed Jan 04 18:26:30 2023
+
+D18   --> D272
+D19   --> D273
+-----------------------------------------------------------------
