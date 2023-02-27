@@ -1,0 +1,163 @@
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET-Diagnostic_Keyboard_PCB\Rev. 0\Gerber\gerber_PET_Diag_KB.out' ----   Sat Feb 18 21:43:34 2023
+
+D11   --> D100
+D12   --> D101
+D13   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET-Diagnostic_Keyboard_PCB\Rev. 0\Gerber\gerber_PET_Diag_KB.plc' ----   Sat Feb 18 21:43:34 2023
+
+D11   --> D103
+D12   --> D104
+D13   --> D105
+D14   --> D106
+D15   --> D107
+D16   --> D108
+D17   --> D109
+D18   --> D110
+D19   --> D111
+D20   --> D112
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET-Diagnostic_Keyboard_PCB\Rev. 0\Gerber\gerber_PET_Diag_KB.pls' ----   Sat Feb 18 21:43:34 2023
+
+D11   --> D183
+D12   --> D184
+D13   --> D185
+D14   --> D186
+D15   --> D187
+D16   --> D188
+D17   --> D189
+D18   --> D190
+D19   --> D191
+D20   --> D192
+D21   --> D193
+D22   --> D194
+D23   --> D195
+D24   --> D196
+D25   --> D197
+D26   --> D198
+D27   --> D199
+D28   --> D200
+D29   --> D201
+D30   --> D202
+D31   --> D203
+D32   --> D204
+D33   --> D205
+D34   --> D206
+D35   --> D207
+D36   --> D208
+D37   --> D209
+D38   --> D210
+D39   --> D211
+D40   --> D212
+D41   --> D213
+D42   --> D214
+D43   --> D215
+D44   --> D216
+D45   --> D217
+D46   --> D218
+D47   --> D219
+D48   --> D220
+D49   --> D221
+D50   --> D222
+D51   --> D223
+D52   --> D224
+D53   --> D225
+D54   --> D226
+D55   --> D227
+D56   --> D228
+D57   --> D229
+D58   --> D230
+D59   --> D231
+D60   --> D232
+D61   --> D233
+D62   --> D234
+D63   --> D235
+D64   --> D236
+D65   --> D237
+D66   --> D238
+D67   --> D239
+D68   --> D240
+D69   --> D241
+D70   --> D242
+D71   --> D243
+D72   --> D244
+D73   --> D245
+D74   --> D246
+D75   --> D247
+D76   --> D248
+D77   --> D249
+D78   --> D250
+D79   --> D251
+D80   --> D252
+D81   --> D253
+D82   --> D254
+D83   --> D255
+D84   --> D256
+D85   --> D257
+D86   --> D258
+D87   --> D259
+D88   --> D260
+D100  --> D261
+D101  --> D262
+D102  --> D263
+D103  --> D264
+D104  --> D265
+D105  --> D266
+D106  --> D267
+D107  --> D268
+D108  --> D269
+D109  --> D270
+D110  --> D271
+D111  --> D272
+D112  --> D273
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET-Diagnostic_Keyboard_PCB\Rev. 0\Gerber\gerber_PET_Diag_KB.stc' ----   Sat Feb 18 21:43:34 2023
+
+D11   --> D274
+D12   --> D275
+D13   --> D276
+D14   --> D277
+D16   --> D278
+D17   --> D279
+D18   --> D280
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET-Diagnostic_Keyboard_PCB\Rev. 0\Gerber\gerber_PET_Diag_KB.sts' ----   Sat Feb 18 21:43:34 2023
+
+D11   --> D281
+D12   --> D282
+D13   --> D283
+D14   --> D284
+D16   --> D285
+D17   --> D286
+D18   --> D287
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET-Diagnostic_Keyboard_PCB\Rev. 0\Gerber\gerber_PET_Diag_KB.top' ----   Sat Feb 18 21:43:34 2023
+
+D11   --> D288
+D12   --> D289
+D13   --> D290
+D14   --> D291
+D15   --> D292
+D16   --> D293
+D17   --> D294
+D18   --> D295
+D19   --> D296
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\PET_CBM_Projects\PET_Diagostics\PET-Diagnostic_Keyboard_PCB\Rev. 0\Gerber\excellon_PET_Diag_KB.ndk' ----   Sat Feb 18 21:43:44 2023
+
+T1   --> T4
+-----------------------------------------------------------------
