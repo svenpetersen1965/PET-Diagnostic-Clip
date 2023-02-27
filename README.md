@@ -19,3 +19,4 @@ This is a modern remake of the two Commodore Diagnostic Clips
 
 <img src="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/PET_Diagnostic_Clip/Rev.%202/Pictures/3826_-_80col_diag_v1.1_loop.JPG" width="300" alt="80col CRTC Tests">
 
+
