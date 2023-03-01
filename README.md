@@ -21,4 +21,12 @@ This is a modern remake of the two Commodore Diagnostic Clips
 
 <img src="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/PET_Diagnostic_Clip/Rev.%202/Pictures/3826_-_80col_diag_v1.1_loop.JPG" width="300" alt="80col CRTC Tests"><br>Actual tests
 
+# Binaries for the EPROM
+The name of the combined file is "80colCRCTv1.1_40colCRCTv2.0_diag3202350g_diag320350g.bin"
+it contains:
+$0000: 80_col_diagnostic_v1.1.bin                 A[15..12]: 0000 =  ON  ON  ON  ON
+$1000: 40_col_diagnostic_v2.0.bin                 A[15..12]: 0000 =  ON  ON  ON  OFF
+$2000: 901447-30_diagnostic_320350g_$9000.bin     A[15..12]: 0000 =  ON  ON  OFF ON
+$3000: 901447-30_diagnostic_320350g_$9000.bin     A[15..12]: 0000 =  ON  ON  OFF OFF
 
+The Diagnistic 320350g is double. The reason is, the computer would crash if an empty slot is selected. So all slots that are selected with the two low switches of the dip switch. 
