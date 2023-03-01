@@ -31,7 +31,7 @@ The name of the combined file is "80colCRCTv1.1_40colCRCTv2.0_diag3202350g_diag3
   </thead>
   <tbody>
     <tr>
-      <td>$0000</td><td>80_col_diagnostic_v1.1.bin<&/td><td>A[15..12]: 0000 =  ON  ON  ON  ON</td>
+      <td>$0000</td><td>80_col_diagnostic_v1.1.bin</td><td>A[15..12]: 0000 =  ON  ON  ON  ON</td>
     </tr>
     <tr>
       <td>$1000</td><td>40_col_diagnostic_v2.0.bin</td><td>A[15..12]: 0001 =  ON  ON  ON  OFF</td>
