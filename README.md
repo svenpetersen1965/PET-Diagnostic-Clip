@@ -24,6 +24,11 @@ This is a modern remake of the two Commodore Diagnostic Clips
 # Binaries for the EPROM
 The name of the combined file is "80colCRCTv1.1_40colCRCTv2.0_diag3202350g_diag320350g.bin". It contains:
 <table>
+  <thead>
+    <tr>
+      <th>EPROM Offset</th><th>Software</th><th>DIP Switch</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>$0000</td><td>80_col_diagnostic_v1.1.bin<&/td><td>A[15..12]: 0000 =  ON  ON  ON  ON</td>
