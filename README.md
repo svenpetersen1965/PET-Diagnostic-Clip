@@ -40,4 +40,6 @@ The name of the combined file is "80colCRCTv1.1_40colCRCTv2.0_diag3202350g_diag3
  </tbody>
 </table>    
     
-The Diagnistic 320350g is double. The reason is, the computer would crash if an empty slot is selected. So all slots that are selected with the two low switches of the dip switch. 
+The Diagnostic 320350g is double. The reason is, the computer would crash if an empty slot is selected. So all slots, that can be selected with the two low switches of the dip switch are occupied.
+
+In a subdirectory, there are some "PETtester" Softwares. These are not a complete test. The (vice) screen shots are included. It could also be installed on the clip, if desired. 
