@@ -48,3 +48,7 @@ The name of the combined file is "80colCRCTv1.1_40colCRCTv2.0_diag3202350g_diag3
 The Diagnostic 320350g is double. The reason is, the computer would crash if an empty slot is selected. So all slots, that can be selected with the two low switches of the dip switch are occupied.
 
 In a subdirectory, there are some "PETtester" Softwares. These are not a complete test. The (vice) screen shots are included. It could also be installed on the clip, if desired. 
+# CBM8296
+This part of the project is not tested yet. <b>The release is preliminary</b>.
+<img src="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/CBM8296_Harness/CBM%20Diagnostics%20Top%20%20Level/pictures/5138_-_CBM8296_Diagnostic_Harness.JPG" width="300" alt="CBM8296 Diagnostic Harness (complete)"><br>CBM8296 Diagnostic Harness (complete)
+
