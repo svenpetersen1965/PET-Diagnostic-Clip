@@ -50,5 +50,8 @@ The Diagnostic 320350g is double. The reason is, the computer would crash if an 
 In a subdirectory, there are some "PETtester" Softwares. These are not a complete test. The (vice) screen shots are included. It could also be installed on the clip, if desired. 
 # CBM8296
 This part of the project is not tested yet. <b>The release is preliminary</b>.
+
 <img src="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/CBM8296_Harness/CBM%20Diagnostics%20Top%20%20Level/pictures/5138_-_CBM8296_Diagnostic_Harness.JPG" width="300" alt="CBM8296 Diagnostic Harness (complete)"><br>CBM8296 Diagnostic Harness (complete)
+
+The diagnostic software for the CBM8296 is contained in the respective folder. There is also a merged binary file ("80colCRCTv1.1_40colCRCTv2.0_diag3202350g_diag320350g_8296.bin") which contains the 324806-01.bin at offset address $4000 (A[15..12]: 0011 =  ON  OFF  ON ON).
 
