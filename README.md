@@ -59,4 +59,7 @@ The diagnostic software for the CBM8296 is contained in the respective folder. T
 14.06.2023:<br>
 * all dongles work with the original (Commodore) clip
 * the cassette dongle case reqires modification
+21.06.2023:<br>
+The CBM8296 can actively switch the /NOROM signal (register @$FFF0). It does so to access the RAM underneath the ROMs. As a result, the diagnostic ROM in the clip is getting visible, which interferes with the test of the upper RAM banks.
 
+A solution is switching off the /NOROM signal in the clip by using the 2nd stage of the external switch. The /NOROM trace at J1, pin 9 has to be cut open and connected to the middle pin of the said switch, the right pin ("active" position) has to be connected to the clip's internal /NOROM signal, e.g. at SW4.  
