@@ -63,3 +63,5 @@ The diagnostic software for the CBM8296 is contained in the respective folder. T
 The CBM8296 can actively switch the /NOROM signal (register @$FFF0). It does so to access the RAM underneath the ROMs. As a result, the diagnostic ROM in the clip is getting visible, which interferes with the test of the upper RAM banks.
 
 A solution is switching off the /NOROM signal in the clip by using the 2nd stage of the external switch. The /NOROM trace at J1, pin 9 has to be cut open and connected to the middle pin of the said switch, the right pin ("active" position) has to be connected to the clip's internal /NOROM signal, e.g. at SW4.  
+
+<img src="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/CBM8296_Harness/CBM%20Diagnostics%20Top%20%20Level/pictures/8296_clipv2_mod.png" width="300" alt="Diagnostic Clip (complete)"><br>/NOROM modification of Clip Rev. 2
