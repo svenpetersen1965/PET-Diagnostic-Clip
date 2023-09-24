@@ -65,3 +65,7 @@ The CBM8296 can actively switch the /NOROM signal (register @$FFF0). It does so 
 A solution is switching off the /NOROM signal in the clip by using the 2nd stage of the external switch. The /NOROM trace at J1, pin 9 has to be cut open and connected to the middle pin of the said switch, the right pin ("active" position) has to be connected to the clip's internal /NOROM signal, e.g. at SW4.  
 
 <img src="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/CBM8296_Harness/CBM%20Diagnostics%20Top%20%20Level/pictures/8296_clipv2_mod.png" width="300" alt="Diagnostic Clip (complete)"><br>/NOROM modification of Clip Rev. 2
+# Additional Information
+I have held a presentation about this topic for Commodore Users Europe on Sept. 23rd, 2023. The pdf of the power point presentation can be found here: <a href="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/commit/a3cc22ed0ae75f65ffd660c29feb877c46cf6521">here</a>
+
+Also check my website for <a href="http://tech.guitarsite.de/petcbm_diag_clip.html">additional information</a>. 
