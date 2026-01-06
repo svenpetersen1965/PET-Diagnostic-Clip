@@ -66,7 +66,7 @@ A solution is switching off the /NOROM signal in the clip by using the 2nd stage
 
 <img src="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/blob/main/CBM8296_Harness/CBM%20Diagnostics%20Top%20%20Level/pictures/8296_clipv2_mod.png" width="300" alt="Diagnostic Clip (complete)"><br>/NOROM modification of Clip Rev. 2
 
-The clip Rev. 3 incorporates this modificaltion. Since I do not own a CBM8296, I cannot test the new clip in this computer. 
+The clip Rev. 3 incorporates this modificaltion. Since I do not own a CBM8296, I cannot test the new clip with this computer. 
 
 # Additional Information
 I have held a presentation about this topic for Commodore Users Europe on Sept. 23rd, 2023. The pdf of the power point presentation can be found here: <a href="https://github.com/svenpetersen1965/PET-Diagnostic-Clip/commit/a3cc22ed0ae75f65ffd660c29feb877c46cf6521">here</a>
